@@ -1,6 +1,6 @@
 # BogoSort
 
-Bogo sort algorithm written in python.
+Bogo sort algorithm written in python3.7.
 
 ## Download
 
